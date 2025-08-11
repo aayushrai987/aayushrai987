@@ -17,9 +17,7 @@
   <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black&logoWidth=20&borderRadius=50" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&logoWidth=20&borderRadius=50" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&logoWidth=20&borderRadius=50" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black&labelColor=black&logoWidth=20&borderRadius=50" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black&logoWidth=20&borderRadius=50" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=black&logoWidth=20&borderRadius=50" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black&logoWidth=20&borderRadius=50" />
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=black&logoWidth=20&borderRadius=50" />
 </p>
@@ -40,6 +38,9 @@ I believe in writing **clean, maintainable code** and building **scalable system
   </a>
   <a href="https://github.com/aayushrai987">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&borderRadius=50" />
+  </a>
+  <a href="mailto:aar98117@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=50" />
   </a>
 </p>
 
