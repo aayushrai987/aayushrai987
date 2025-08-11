@@ -1,5 +1,5 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=300&color=00FF00&width=650&lines=🚀+Hey%2C+I'm+Aayush+Rai;Full+Stack+Developer;Cloud+Computing+Enthusiast;Generative+AI+Explorer;Always+Exploring+Emerging+Tech&center=true&vCenter=true&repeat=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=0&color=00FF00&width=650&lines=🚀+Hey%2C+I'm+Aayush+Rai;Full+Stack+Developer;Cloud+Computing+Enthusiast;Generative+AI+Explorer;Always+Exploring+Emerging+Tech&center=true&vCenter=true&repeat=true)](https://git.io/typing-svg)
 
 💻 **B.Tech CSE (Software Engineering)**  
 🔍 Passionate about **Full Stack Development**, **Cloud Computing**, and **Emerging Tech**  
@@ -22,12 +22,6 @@
   <img src="https://skillicons.dev/icons?i=aws" width="50" />
   <img src="https://skillicons.dev/icons?i=gcp" width="50" />
 </p>
-
----
-
-## 🌟 My Approach  
-> *"Technology should not only work — it should inspire."*  
-I believe in writing **clean, maintainable code** and building **scalable systems** that deliver real-world impact.  
 
 ---
 
